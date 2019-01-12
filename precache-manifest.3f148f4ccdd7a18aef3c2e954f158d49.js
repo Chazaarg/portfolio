@@ -12,27 +12,27 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/pastock.c100572b.jpg"
   },
   {
-    "revision": "afb0baa14d59fe960ccef861f519f97f",
-    "url": "/portfolio/static/media/CV_CHAZARRETA_PATRICIO_2CV.afb0baa1.pdf"
+    "revision": "f5082203aae86852e7a5b0b686841203",
+    "url": "/portfolio/static/media/CV_CHAZARRETA_PATRICIO.f5082203.pdf"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "821f2b1e03e5fd6e85f6",
-    "url": "/portfolio/static/js/main.821f2b1e.chunk.js"
+    "revision": "b807c8c1ebd17561f11d",
+    "url": "/portfolio/static/js/main.b807c8c1.chunk.js"
   },
   {
     "revision": "5415f5d2df6d5166bfdd",
     "url": "/portfolio/static/js/1.5415f5d2.chunk.js"
   },
   {
-    "revision": "821f2b1e03e5fd6e85f6",
+    "revision": "b807c8c1ebd17561f11d",
     "url": "/portfolio/static/css/main.9663b1b1.chunk.css"
   },
   {
-    "revision": "8cd76e301d5e781a9661db7c109b227b",
+    "revision": "8a49da3bb70d981845add9f6c79971a6",
     "url": "/portfolio/index.html"
   }
 ];
