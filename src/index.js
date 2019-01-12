@@ -157,7 +157,7 @@ const PageDiv = styled.div`
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <PageDiv>
         <BackgroundDiv>
           <BackgroundBubbles>

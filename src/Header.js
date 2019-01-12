@@ -9,7 +9,7 @@ import { FilePdf } from "styled-icons/icomoon/FilePdf";
 import { Github } from "styled-icons/fa-brands/Github";
 import { Cubes } from "styled-icons/fa-solid/Cubes";
 import { Envelope } from "styled-icons/fa-solid/Envelope";
-import cv from "./CV_CHAZARRETA_PATRICIO_2CV.pdf";
+import cv from "./CV_CHAZARRETA_PATRICIO.pdf";
 
 const MainDiv = styled.div`
   position: relative;
@@ -298,6 +298,16 @@ const NavGridItem = styled.li`
   }
 `;
 
+const SocialDiv = styled.div`
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  text-align: center;
+  padding: 0 5px 0 20px;
+  a {
+    margin: 0 0.4em;
+  }
+`;
+
 const Header = () => {
   return (
     <MainDiv>
@@ -348,7 +358,10 @@ const Header = () => {
             <img src={patricio} alt="foto" width="100%" height="100%" />
           </ProfileImage>
           <ProfileTitle>Patricio Chazarreta</ProfileTitle>
-          <ProfileSubTitle>Desarrollador Web</ProfileSubTitle>
+          <ProfileSubTitle>Programador Web</ProfileSubTitle>
+          <SocialDiv>
+            <small>Chazarreta.Patricio@gmail.com</small>
+          </SocialDiv>
         </Profilediv>
       </ProfileCard>
     </MainDiv>
